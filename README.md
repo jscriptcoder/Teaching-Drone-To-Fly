@@ -1,6 +1,6 @@
 # Machine Learning Engineer Nanodegree
 ## Deep Reinforcement Learning
-### Project: Deg Breed Classifier
+### Project: Teach a Quadcopter How to Fly
 
 See [project report](Quadcopter_Project.ipynb)
 

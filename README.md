@@ -4,6 +4,8 @@
 
 See [project report](Quadcopter_Project.ipynb)
 
+---
+
 Untrained agent:
 
 <img src="videos/quadrotor_anim_8163d3a2-5e86-4318-975f-803daa7545da.gif" />
@@ -11,7 +13,9 @@ Untrained agent:
 ---
 Better trained agent, trying to reach the target:
 
-<img src="videos/quadrotor_anim_8163d3a2-5e86-4318-975f-803daa7545da.gif" />
+<img src="videos/quadrotor_anim_8ff64309-644e-41fe-8571-fccc707e35e6.gif" />
+
+---
 
 ### Project Overview
 The Quadcopter or Quadrotor Helicopter is becoming an increasingly popular aircraft for both personal and professional use. Its maneuverability lends itself to many applications, from last-mile delivery to cinematography, from acrobatics to search-and-rescue.
